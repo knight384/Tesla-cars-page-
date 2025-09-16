@@ -29,3 +29,16 @@ This repository contains the code for an animated Tesla landing page showcasing 
 
 ## License
 This project is licensed under the MIT License.
+
+## Contributing
+Contributions are welcome! If you'd like to improve this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and push them to your branch.
+4. Submit a pull request with a detailed description of your changes.
+
+## Acknowledgments
+- Tesla, Inc. for inspiring the design and concept.
+- [CodePen](https://codepen.io/) for hosting resources used in the project.
+- Open-source libraries like React and Lodash for enabling dynamic functionality.
